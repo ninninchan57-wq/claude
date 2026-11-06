@@ -1,0 +1,87 @@
+[
+  {
+    "title": "サンプル浄水サーバーA（卓上）",
+    "type": ["josui"], "placement": ["takujo"], "purpose": ["hitorigurashi", "yasui"],
+    "meta": {
+      "brand": "サンプル社A", "catch": "水道水を入れるだけ。定額で飲み放題", "rank": 1,
+      "monthly_cost": 3300, "water_price": "定額（水道水を補充）", "rental_fee": 3300, "electricity": 500,
+      "delivery_fee": "なし", "contract_period": "2年", "cancel_fee": "1年未満 11,000円（例）", "min_order": "なし",
+      "bottle_position": "給水式（タンクに水道水）", "size": "幅220×奥行350×高さ480",
+      "features": "チャイルドロック,自動クリーン,エコモード",
+      "recommended_for": "一人暮らし・二人暮らし\n重いボトルを受け取りたくない人\n月額を固定したい人",
+      "pros": "どれだけ飲んでも定額\nボトルの受け取り・保管が不要\n卓上でキッチンに置ける",
+      "cons": "タンクへの給水は手作業\n天然水ではない",
+      "verdict": "【ここに自分で実際に使った感想・計測結果を書いてください】例：1か月使用し、給水は2日に1回・約1分。冷水は約6℃まで下がりました。",
+      "score_cost": 4.6, "score_ease": 4.0, "score_taste": 3.8, "score_design": 4.2, "score_hygiene": 4.3,
+      "campaign": "（例）初月無料 ※期限を記載", "affiliate_url": "", "official_url": "https://example.com/", "data_checked": ""
+    }
+  },
+  {
+    "title": "サンプル天然水サーバーB（下置き）",
+    "type": ["tennen"], "placement": ["yukaoki"], "purpose": ["baby"],
+    "meta": {
+      "brand": "サンプル社B", "catch": "ボトル下置きで交換がラク。ミルク作りにも", "rank": 2,
+      "monthly_cost": 4200, "water_price": "12Lあたり約2,000円（例）", "rental_fee": 0, "electricity": 700,
+      "delivery_fee": "無料", "contract_period": "2年", "cancel_fee": "2年未満 16,500円（例）", "min_order": "月24L（スキップ可）",
+      "bottle_position": "下置き", "size": "幅300×奥行350×高さ1100",
+      "features": "チャイルドロック,温水再加熱,常温水,自動クリーン",
+      "recommended_for": "赤ちゃんのいる家庭\n天然水の味にこだわる人\n力に自信がない人",
+      "pros": "ボトルを足元にセットでき交換が楽\n再加熱で約90℃の熱湯が使える\n非加熱処理の天然水",
+      "cons": "注文ノルマがある\n空ボトル（ワンウェイ）のゴミが出る",
+      "verdict": "【独自検証の結果を記載】",
+      "score_cost": 3.6, "score_ease": 4.5, "score_taste": 4.7, "score_design": 4.0, "score_hygiene": 4.2,
+      "campaign": "", "affiliate_url": "", "official_url": "https://example.com/", "data_checked": ""
+    }
+  },
+  {
+    "title": "サンプル格安サーバーC",
+    "type": ["josui"], "placement": ["takujo", "yukaoki"], "purpose": ["yasui", "hitorigurashi"],
+    "meta": {
+      "brand": "サンプル社C", "catch": "業界最安クラスの月額。とにかく安く", "rank": 3,
+      "monthly_cost": 2900, "water_price": "定額", "rental_fee": 2900, "electricity": 450,
+      "delivery_fee": "なし", "contract_period": "3年", "cancel_fee": "契約年数により変動（例）", "min_order": "なし",
+      "bottle_position": "給水式", "size": "幅260×奥行320×高さ460",
+      "features": "チャイルドロック,エコモード",
+      "recommended_for": "コスト最優先の人\n水の消費量が多い家庭",
+      "pros": "月額が安い\n卓上・床置きを選べる",
+      "cons": "契約期間が長め\n機能はシンプル",
+      "verdict": "【独自検証の結果を記載】",
+      "score_cost": 4.8, "score_ease": 3.8, "score_taste": 3.6, "score_design": 3.6, "score_hygiene": 3.9,
+      "campaign": "", "affiliate_url": "", "official_url": "https://example.com/", "data_checked": ""
+    }
+  },
+  {
+    "title": "サンプルおしゃれサーバーD（卓上）",
+    "type": ["tennen"], "placement": ["takujo"], "purpose": ["oshare"],
+    "meta": {
+      "brand": "サンプル社D", "catch": "インテリアになじむデザイン。軽量パック", "rank": 4,
+      "monthly_cost": 4600, "water_price": "7.2Lあたり約1,300円（例）", "rental_fee": 550, "electricity": 400,
+      "delivery_fee": "無料", "contract_period": "3年", "cancel_fee": "3年未満 9,900円（例）", "min_order": "2か月に1回以上",
+      "bottle_position": "上置き（軽量パック）", "size": "幅250×奥行350×高さ500",
+      "features": "チャイルドロック,UV殺菌,温度調整",
+      "recommended_for": "デザイン重視の人\nキッチンカウンターに置きたい人",
+      "pros": "軽量パックで女性でも交換しやすい\nデザイン性が高い",
+      "cons": "水代は割高\n容量が少なく交換頻度が高い",
+      "verdict": "【独自検証の結果を記載】",
+      "score_cost": 3.2, "score_ease": 4.1, "score_taste": 4.5, "score_design": 4.8, "score_hygiene": 4.4,
+      "campaign": "", "affiliate_url": "", "official_url": "https://example.com/", "data_checked": ""
+    }
+  },
+  {
+    "title": "サンプルRO水サーバーE",
+    "type": ["ro"], "placement": ["yukaoki"], "purpose": ["office", "bousai"],
+    "meta": {
+      "brand": "サンプル社E", "catch": "自社配送・ボトル回収でゴミが出ない", "rank": 5,
+      "monthly_cost": 3900, "water_price": "12Lあたり約1,500円（例）", "rental_fee": 0, "electricity": 800,
+      "delivery_fee": "無料", "contract_period": "なし", "cancel_fee": "なし（例）", "min_order": "月2本",
+      "bottle_position": "上置き（リターナブル）", "size": "幅290×奥行340×高さ1050",
+      "features": "チャイルドロック,定期メンテナンス",
+      "recommended_for": "オフィス・店舗\nゴミを出したくない人\n災害用の備蓄も兼ねたい人",
+      "pros": "契約期間の縛りなし\n空ボトルは回収してもらえる",
+      "cons": "12Lボトルの持ち上げが必要\n空ボトルの保管場所が必要",
+      "verdict": "【独自検証の結果を記載】",
+      "score_cost": 4.0, "score_ease": 3.2, "score_taste": 3.9, "score_design": 3.4, "score_hygiene": 4.5,
+      "campaign": "", "affiliate_url": "", "official_url": "https://example.com/", "data_checked": ""
+    }
+  }
+]
